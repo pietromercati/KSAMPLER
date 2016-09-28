@@ -3,6 +3,11 @@
  * Author: Pietro Mercati
  * email : pimercat@eng.ucsd.edu
  * 
+ * Parts of this code are obtained from:
+ *
+ * http://stackoverflow.com/questions/3247373/how-to-measure-program-execution-time-in-arm-cortex-a8-processor
+ *
+ *
  * If using this code for research purposes, include 
  * references to the following publications
  * 
